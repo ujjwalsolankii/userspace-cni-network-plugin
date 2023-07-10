@@ -7,7 +7,7 @@ require (
 	github.com/containernetworking/plugins v1.2.0
 	github.com/go-logfmt/logfmt v0.6.0
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.1
 	github.com/vishvananda/netlink v1.2.1-beta.2
 	go.fd.io/govpp v0.7.0
@@ -18,7 +18,6 @@ require (
 )
 
 require (
-	github.com/bennyscetbun/jsongo v1.1.0 // indirect
 	github.com/coreos/go-iptables v0.6.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
